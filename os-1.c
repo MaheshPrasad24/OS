@@ -1,3 +1,6 @@
+\\1)Develop a c program to implement the Process system calls (fork (), exec(), wait(),
+create process, terminate process)
+\\(I) fork()
 #include <stdio.h>
 //#include <stdlib.h>
 #include <sys/types.h>
